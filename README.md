@@ -42,3 +42,8 @@ Verified backups using tar -tzf
 # Output:
 Automated backup files
 Verification logs generated
+
+# Challenges Faced
+Permission denied errors while accessing directories
+Cron job path issues
+Missing directories during backup
